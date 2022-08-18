@@ -4,6 +4,6 @@ tuesday - 24 hours
 wednesday - 24 hours
 thursday - 24 hours
 friday - 24 hours
-saturday - 24 hours
+saturday - 12 hours
 sunday - 12 hours
 ################################
