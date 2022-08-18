@@ -6,3 +6,4 @@ thursday - 24 hours
 friday - 24 hours
 saturday - 24 hours
 sunday is holiday
+################################
