@@ -1,7 +1,8 @@
-monday
-tuesday
-wednesday
-thursday
-friday
-saturday
+########Hours of operation#######
+monday - 24 hours
+tuesday - 24 hours
+wednesday - 24 hours
+thursday - 24 hours
+friday - 24 hours
+saturday - 24 hours
 sunday is holiday
