@@ -2,8 +2,13 @@
 #program to print lines in a file
 print_line()
 {
-echo "Corresponding line is:"
-sed -n "${1}p" $filename
+	
+	if [ ! -f $filename ];then
+		echo "File not found"
+		exit
+	fi
+	echo "Corresponding line is:"
+	sed -n "${1}p" $filename
 }
 
 echo "Please enter the filename"
