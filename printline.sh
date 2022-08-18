@@ -7,8 +7,14 @@ print_line()
 		echo "File not found"
 		exit
 	fi
-	echo "Corresponding line is:"
-	sed -n "${1}p" $filename
+	linecount=$( sed -n "$=" $filename )
+	if [ ${1} -gt $linecount ];then
+		echo "Numer exceeds actual line count"
+	else
+		echo "Corresponding line is:"
+		sed -n "${1}p" $filename
+	fi
+
 }
 
 echo "Please enter the filename"
