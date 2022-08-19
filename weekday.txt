@@ -7,3 +7,4 @@ friday - 24 hours
 saturday - 12 hours
 sunday - holiday
 ################################
+Have a nice weekend!
