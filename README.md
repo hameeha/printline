@@ -1,2 +1,2 @@
 # demo
-demo to learn remote
+It is a demo to learn remote
